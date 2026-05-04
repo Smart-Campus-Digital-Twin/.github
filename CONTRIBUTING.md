@@ -21,7 +21,7 @@
 
 ## 🚀 Getting Started
 
-1. **Fork** the repository (if you're an external contributor) or **clone** it directly (if you're a team member).
+1. **clone** REPOSITORY if you're a team member).
 2. Read this document **fully** before writing any code.
 3. Check the [Issues](../../issues) tab to find something to work on, or open a new issue describing your proposed change.
 
@@ -42,6 +42,7 @@ Follow these steps **in order** before writing a single line of code:
 - You **do not need to wait for a maintainer to assign you.**
 - Simply **assign yourself** to the issue and leave a comment like:
   > _"I'm working on this — will open a PR soon."_
+- keep communication with team (Whatsapp or in discussions)
 - This prevents two people from working on the same thing at the same time.
 
 ### 3. 🌿 Create a Branch
