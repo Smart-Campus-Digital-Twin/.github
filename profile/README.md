@@ -35,7 +35,7 @@ Keep communications with relevant subgroups in WhatsApp or GitHub
 
 ## 🤝 Contributing
 
-Please read [**CONTRIBUTING.md**](./CONTRIBUTING.md) before opening issues or pull requests.
+Please read [[**CONTRIBUTING.md**](https://github.com/Smart-Campus-Digital-Twin/.github/blob/main/CONTRIBUTING.md)] before opening issues or pull requests.
 
 - Open an issue → branch → PR → review → merge
 - Follow conventional commits and branch naming conventions
