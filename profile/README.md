@@ -23,12 +23,21 @@ The **Smart Campus Digital Twin** creates a live, data-driven virtual model of a
 - 🏢 **Resource Management** — Monitor energy, attendance, and campus assets in real time
 
 ---
+## Teams
+
+- I1 Device & Edge Systems
+- I2 Data & Intelligence
+- I3 Sys Eng & interaction
+- I4 Platform, Security & Integration<br>
+Keep communications with relevant subgroups in WhatsApp or GitHub 
+
+---
 
 ## 🤝 Contributing
 
 Please read [**CONTRIBUTING.md**](./CONTRIBUTING.md) before opening issues or pull requests.
 
-- Open an issue → assign yourself → branch → PR → review → merge
+- Open an issue → branch → PR → review → merge
 - Follow conventional commits and branch naming conventions
 - Direct pushes to `main` are not allowed
 
