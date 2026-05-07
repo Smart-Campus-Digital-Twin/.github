@@ -11,6 +11,7 @@
 
 The **Smart Campus Digital Twin** creates a live, data-driven virtual model of a campus environment. It streams real-time sensor data, renders an interactive 3D campus model, and applies machine learning to optimize energy usage, space utilization, and resource management — all in one unified platform.
 
+<img width="1000" height="526" alt="Screenshot 2026-05-06 at 07 50 54" src="https://github.com/user-attachments/assets/e48735ae-ea07-4d71-9836-46cd653967ed" />
 ---
 
 ## ✨ Features
